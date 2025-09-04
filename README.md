@@ -50,12 +50,16 @@ pip install -r requirements.txt
 
 ollama serve
 
-- Download your preferred model (e.g. llama2 ): ollama pull llama2
+- Download your preferred model (e.g. llama2 ): 
+
+ollama pull llama2
 
 
 ### 4. Run The Chatbot
 
-Start Streamlit: streamlit run localama.py
+Start Streamlit :
+
+ streamlit run localama.py
 
 Open [http://localhost:8501](http://localhost:8501) in your browser.
 
