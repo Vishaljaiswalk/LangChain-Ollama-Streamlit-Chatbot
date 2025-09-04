@@ -81,7 +81,7 @@ Pull requests and suggestions are welcome!
 
 ---
 
-** 🔗Quick Links**  
+**🔗Quick Links**  
 - Ollama documentation: [https://ollama.com](https://ollama.com)  
 - LangChain Python docs: [https://python.langchain.com/](https://python.langchain.com/)  
 - Streamlit: [https://streamlit.io/](https://streamlit.io/)  
