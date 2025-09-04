@@ -1,6 +1,6 @@
 # LangChain-Ollama-Streamlit-Chatbot
 
-## A Streamlit-powered chatbot application using LangChain and Ollama for local LLM inference.
+### A Streamlit-powered chatbot application using LangChain and Ollama for local LLM inference.
 
 <img width="1133" height="481" alt="Screenshot 2025-09-04 212802" src="https://github.com/user-attachments/assets/6d888f3d-2fbd-4a0f-90a2-53a17a1e08e2" />
 
@@ -8,11 +8,11 @@
    A conversational AI chatbot engine built with LangChain, Ollama (LLAMA2 models), and Streamlit. This project lets users chat with powerful local language models via a friendly web interface.
 
 ## 🌟 Features
-   ✅ Powered by local LLMs using Ollama (LLAMA2)
-   ✅ Streamlit web UI for chat experience
-   ✅ Modular LangChain pipeline for prompt customization
-   ✅ Dynamically updates knowledge of the current date/year for accurate answers
-   ✅ Easy extensibility to new models or prompt formats
+ - ✅ Powered by local LLMs using Ollama (LLAMA2)
+ - ✅ Streamlit web UI for chat experience
+ - ✅ Modular LangChain pipeline for prompt customization
+ - ✅ Dynamically updates knowledge of the current date/year for accurate answers
+ - ✅ Easy extensibility to new models or prompt formats
 
 ## Setup Instructions
 
