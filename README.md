@@ -57,7 +57,7 @@ ollama pull llama2
 
 ### 4. Run The Chatbot
 
-Start Streamlit :
+- Run Streamlit :
 
  streamlit run localama.py
 
