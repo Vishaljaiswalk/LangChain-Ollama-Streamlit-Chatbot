@@ -1,5 +1,7 @@
 # LangChain-Ollama-Streamlit-Chatbot
-A Streamlit-powered chatbot application using LangChain and Ollama for local LLM inference.
+
+## A Streamlit-powered chatbot application using LangChain and Ollama for local LLM inference.
+
 <img width="1133" height="481" alt="Screenshot 2025-09-04 212802" src="https://github.com/user-attachments/assets/6d888f3d-2fbd-4a0f-90a2-53a17a1e08e2" />
 
 ## ✨ Overview
