@@ -23,10 +23,13 @@
 - LangChain, Streamlit, and langchain-ollama modules
 
 
-### 2. Installation
+## 2. Installation
 
 - Clone this repo:
-- Install dependencies: pip install -r requirements.txt
+```bash
+git clone https://github.com/yourusername/langchain-ollama-chatbot.git
+cd langchain-ollama-chatbot
+
 
 **Sample `requirements.txt`:**
 streamlit
