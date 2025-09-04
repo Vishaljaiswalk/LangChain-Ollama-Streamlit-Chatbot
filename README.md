@@ -38,10 +38,10 @@ pip install -r requirements.txt
 **Sample `requirements.txt`:**
 
 
-streamlit
-langchain
-langchain-ollama
-ollama
+- streamlit
+- langchain
+- langchain-ollama
+- ollama
 
 
 ### 3. Ollama Setup
