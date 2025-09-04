@@ -14,7 +14,7 @@
 - ✅ **Dynamically updates knowledge of the current date/year for accurate answers**
 - ✅ **Easy extensibility to new models or prompt formats**
 
-## Setup Instructions
+## 🚀 Setup Instructions
 
 ### 1. Prerequisites
 
@@ -23,7 +23,7 @@
 - LangChain, Streamlit, and langchain-ollama modules
 
 
-## 2. Installation
+### 2. Installation
 
 - Clone this repo:
 
@@ -62,7 +62,7 @@ command -> ollama pull llama2
 command -> streamlit run localama.py
 
 
-## Usage
+## 🔹 Usage
 
 - Enter prompts in the chat UI.
 - The assistant can answer questions using the selected Ollama model.
@@ -73,7 +73,7 @@ command -> streamlit run localama.py
 - Change default models or prompts in `localama.py` or your project’s main Python file.
 - To update system prompts or add more context, edit the initialization section using Python’s `datetime.datetime.now()` for dynamic facts.
 
-## Contributing
+## 🤝 Contributing
 
 Pull requests and suggestions are welcome!
 - Fork the repo, create a feature branch, and open a PR.
@@ -81,7 +81,7 @@ Pull requests and suggestions are welcome!
 
 ---
 
-**Quick Links**  
+** 🔗Quick Links**  
 - Ollama documentation: [https://ollama.com](https://ollama.com)  
 - LangChain Python docs: [https://python.langchain.com/](https://python.langchain.com/)  
 - Streamlit: [https://streamlit.io/](https://streamlit.io/)  
