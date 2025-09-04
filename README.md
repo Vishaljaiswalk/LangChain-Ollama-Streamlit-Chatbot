@@ -26,17 +26,18 @@
 ## 2. Installation
 
 - Clone this repo:
+
 git clone https://github.com/yourusername/langchain-ollama-chatbot.git
 cd langchain-ollama-chatbot
 
-
 - Install dependencies:
-
-undefined
-
+  
 pip install -r requirements.txt
 
+
 **Sample `requirements.txt`:**
+
+
 streamlit
 langchain
 langchain-ollama
