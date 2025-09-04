@@ -9,13 +9,9 @@
 
 ## 🌟 Features
 ✅ **Powered by local LLMs using Ollama (LLAMA2)**
-
 ✅ **Streamlit web UI for chat experience**
-
 ✅ **Modular LangChain pipeline for prompt customization**
-
 ✅ **Dynamically updates knowledge of the current date/year for accurate answers**
-
 ✅ **Easy extensibility to new models or prompt formats**
 
 ## Setup Instructions
