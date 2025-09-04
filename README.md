@@ -28,7 +28,7 @@
 - Clone this repo:
 
 git clone https://github.com/Vishaljaiswalk/LangChain-Ollama-Streamlit-Chatbot.git
-cd langchain-ollama-chatbot
+
 
 - Install dependencies:
   
