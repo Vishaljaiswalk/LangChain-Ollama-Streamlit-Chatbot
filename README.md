@@ -80,10 +80,6 @@ Pull requests and suggestions are welcome!
 - Fork the repo, create a feature branch, and open a PR.
 - Make sure new contributions include relevant documentation and tests if applicable.
 
-## License
-
-This project is MIT licensed.
-
 ---
 
 **Quick Links**  
