@@ -46,22 +46,21 @@ pip install -r requirements.txt
 
 ### 3. Ollama Setup
 
-- Start the Ollama server : 
+- Run the Ollama server : 
 
-ollama serve
+command -> ollama serve
 
 - Download your preferred model (e.g. llama2 ): 
 
-ollama pull llama2
+command -> ollama pull llama2
 
 
 ### 4. Run The Chatbot
 
 - Run Streamlit :
 
- streamlit run localama.py
+command -> streamlit run localama.py
 
-Open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ## Usage
 
