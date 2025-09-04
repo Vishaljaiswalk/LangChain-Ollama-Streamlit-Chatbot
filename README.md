@@ -32,7 +32,7 @@ cd langchain-ollama-chatbot
 
 
 - Install dependencies:
-
+undefined
 pip install -r requirements.txt
 
 **Sample `requirements.txt`:**
