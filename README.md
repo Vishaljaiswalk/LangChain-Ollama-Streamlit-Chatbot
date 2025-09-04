@@ -46,7 +46,10 @@ pip install -r requirements.txt
 
 ### 3. Ollama Setup
 
-- Start the Ollama server: ollama serve
+- Start the Ollama server : 
+
+ollama serve
+
 - Download your preferred model (e.g. llama2 ): ollama pull llama2
 
 
